@@ -1,10 +1,10 @@
-1
-2
+oneone
+twotwo
 threethree
 fourfour
 fivefive
 sixsix
-7
-8
-9
-10
+sevenseven
+eighteight
+ninenine
+tenten
